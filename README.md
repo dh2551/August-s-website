@@ -1,4 +1,4 @@
 # August's website
 
 ### 1. Download folder
-view 'final.html'
+### 2. Open 'final.html' and enjoy
